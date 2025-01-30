@@ -1,8 +1,7 @@
+# 🌹 **Rose Day Surprise - coder's way of expressing** 💕  
 
 ## 🚀 **Live Preview**  
 👉 [**Live Demo!**](https://roseday-git-add.netlify.app/)  
-
-# 🌹 **Rose Day Surprise - coder's way of expressing** 💕  
 
 A **cute animated webpage** designed to surprise your, **Sohneyoo**, on **Rose Day**!
 
